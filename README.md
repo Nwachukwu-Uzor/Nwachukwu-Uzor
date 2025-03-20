@@ -1,7 +1,7 @@
 ### <div align="center">I'm Uzor, a full-time full-stack developer 👨‍💻 and a problem solver 🛠</div>  
   
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
+- ❓ Ask me about anything related to Dotnet Development  
   
 
 - ⚡ Fun fact: I use tabs over spaces  
